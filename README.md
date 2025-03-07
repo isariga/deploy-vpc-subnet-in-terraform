@@ -4,6 +4,7 @@ Terraform allows you to define and deploy an AWS VPC with subnets using infrastr
 It automates network provisioning, ensuring consistency, scalability, and easy management of cloud resources.
 
 Step 1: Configure AWS CLI
+
 Before using Terraform, configure your AWS credentials.
 Install AWS CLI
     aws --version
