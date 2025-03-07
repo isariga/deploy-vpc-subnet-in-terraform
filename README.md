@@ -34,7 +34,8 @@ Open main.tf and add the following Terraform code![code](https://github.com/user
 
 Step 5: Initialize Terraform
 
-    terraform init![init](https://github.com/user-attachments/assets/7191b99a-6de2-4d15-8772-baff78d9b531)
+    terraform init
+![init](https://github.com/user-attachments/assets/7191b99a-6de2-4d15-8772-baff78d9b531)
 
 Step 6: Validate and Plan Terraform Configuration
 
@@ -43,7 +44,8 @@ Step 6: Validate and Plan Terraform Configuration
 
 Step 7: Apply Terraform to Create VPC and Subnet
 
-    terraform apply![3resources](https://github.com/user-attachments/assets/1fc7ad3b-ded4-43e5-8a1c-c8925dc6da70)
+    terraform apply
+![3resources](https://github.com/user-attachments/assets/1fc7ad3b-ded4-43e5-8a1c-c8925dc6da70)
 
 Step 8: Verify the Deployment
 
@@ -57,4 +59,5 @@ Go to Subnets to see the created subnet
 
 Step 9: Destroy Terraform Resources
 
-    terraform destroy![destroy](https://github.com/user-attachments/assets/34f51cb7-d65e-4834-b6cb-505db945a133)
+     terraform destroy
+![destroy](https://github.com/user-attachments/assets/34f51cb7-d65e-4834-b6cb-505db945a133)
