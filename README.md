@@ -11,6 +11,7 @@ Install AWS CLI
 
     aws --version
 Configure AWS CLI
+
     aws configure
     ![aws configure](https://github.com/user-attachments/assets/da925e75-0934-4539-9df5-2c3a1ef2e8d3)
 
